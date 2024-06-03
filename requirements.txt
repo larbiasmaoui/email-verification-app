@@ -1,0 +1,4 @@
+py3dns
+dnspython==2.6.1
+validate-email-address==1.0.4
+email_validator
